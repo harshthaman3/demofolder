@@ -17,6 +17,10 @@ ul {
   background-color: #333333;
   position: sticky;
   top: 0;
+    display: flex;
+   justify-content: space-between;
+    list-style-type: none;
+
 }
 
 ul li {
